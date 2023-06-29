@@ -1,9 +1,10 @@
-require_relative 'namable'
+require_relative 'nameable'
 
 class Person < Nameable
   attr_accessor :name, :age, :parent_permission
 
   def initialize(age, name: 'Unknown', parent_permission: true)
+    super()
     @id = generate_id
     @name = name
     @age = age
