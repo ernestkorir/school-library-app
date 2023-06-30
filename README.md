@@ -2,7 +2,7 @@
 
 ## 📗 Table of Contents
 [📗 Table of Contents](#-table-of-contents)
-  - [📖 \[school-library-management-system\] ](#-school-library-management-system-)
+  - [📖school-library-management-system](#-school-library-management-system-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -39,8 +39,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add teacher**
-- **Add student**
+-  **[List all books]**
+- **[List all books]**
+- **[Create a person]**
+- **[Create a book]**
+- **[Create a rental]**
+- **[List all rentals]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,8 +102,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Add new books.**
-- **Save records of who borrowed a given book and when.**
+- [ ] **[Delete book, person, rental]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
